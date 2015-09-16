@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說拔除罪障王經
+#+DATE: 2015-08-30 20:36:39.492358
+#+PROPERTY: JUAN 0
