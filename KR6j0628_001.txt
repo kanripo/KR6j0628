@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:39.217745
+#+DATE: 2015-08-30 20:36:40.602032
 #+TITLE: 佛說拔除罪障呪王經
 #+PROPERTY: CBETA_ID T21n1396
 #+PROPERTY: ID KR6j0628
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1396
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0628_T_001-0913a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1396¶
-
- 佛說拔除罪障呪王經一卷¶
+No. 1396¶
+佛說拔除罪障呪王經一卷¶
 ¶
 唐三藏法師義淨奉　制譯¶
 
@@ -36,7 +35,7 @@ No.1396¶
 依真法界獲大功德。於臨終時必能憶此大¶
 力呪王。正念現前當生善處。即說呪曰。¶
 
-南麼薩婆怛他揭羝驃　阿羅𠿒驃　唵拘¶
+南麼薩婆怛他揭羝驃　阿羅[口*歇]驃　唵拘¶
 摩囉乎嚧比那　毘輸和　三婆婆阿揭車阿¶
 揭車　洛呼洛呼　勃纜勃攬　唅唅　氏那¶
 市(市一反)曼殊室利也　蘇室哩也　多賴也漫¶
