@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:39.217745
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:40
 #+TITLE: 佛說拔除罪障呪王經
 #+PROPERTY: CBETA_ID T21n1396
 #+PROPERTY: ID KR6j0628
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1396
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0628_T_001-0913a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1396¶
-
- 佛說拔除罪障呪王經一卷¶
+No. 1396¶
+佛說拔除罪障呪王經一卷¶
 ¶
 唐三藏法師義淨奉　制譯¶
 
